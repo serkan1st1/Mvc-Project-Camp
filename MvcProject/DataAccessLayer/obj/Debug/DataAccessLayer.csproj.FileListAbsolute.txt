@@ -1,0 +1,17 @@
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
