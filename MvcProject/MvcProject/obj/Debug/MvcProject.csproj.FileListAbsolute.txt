@@ -77,3 +77,16 @@ C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\obj\Debu
 C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\obj\Debug\MvcProject.csproj.CopyComplete
 C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\obj\Debug\MvcProject.dll
 C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\obj\Debug\MvcProject.pdb
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\bin\BusinessLayer.dll
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\bin\DataAccessLayer.dll
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\bin\EntityLayer.dll
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\bin\EntityFramework.dll
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\bin\BusinessLayer.pdb
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\bin\BusinessLayer.dll.config
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\bin\DataAccessLayer.pdb
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\bin\DataAccessLayer.dll.config
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\bin\EntityLayer.pdb
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\bin\EntityLayer.dll.config
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\bin\EntityFramework.xml
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\bin\EntityFramework.SqlServer.xml
