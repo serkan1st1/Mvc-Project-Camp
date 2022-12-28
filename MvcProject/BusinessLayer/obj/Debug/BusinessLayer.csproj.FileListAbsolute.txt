@@ -16,3 +16,9 @@ C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\BusinessLayer\obj\D
 C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
 C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\BusinessLayer\bin\Debug\FluentValidation.dll
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\BusinessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\BusinessLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\BusinessLayer\bin\Debug\FluentValidation.xml
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\BusinessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\BusinessLayer\bin\Debug\System.Threading.Tasks.Extensions.xml

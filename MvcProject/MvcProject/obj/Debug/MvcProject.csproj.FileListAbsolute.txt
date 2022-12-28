@@ -90,3 +90,9 @@ C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\bin\Enti
 C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\bin\EntityFramework.xml
 C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\bin\EntityFramework.SqlServer.dll
 C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\bin\FluentValidation.dll
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\bin\FluentValidation.xml
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\MvcProject\bin\System.Threading.Tasks.Extensions.xml
