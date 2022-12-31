@@ -15,3 +15,5 @@ C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\DataAccessLayer\obj
 C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
 C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
 C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_edit.resources
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writertitle_add.resources

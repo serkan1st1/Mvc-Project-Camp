@@ -5,8 +5,8 @@ C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\EntityLayer\bin\Deb
 C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\EntityLayer\bin\Debug\EntityFramework.xml
 C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
 C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
 C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
 C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\EntityLayer\obj\Debug\EntityLayer.dll
 C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\Serkan\Documents\GitHub\Mvc-Project-Camp\MvcProject\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
